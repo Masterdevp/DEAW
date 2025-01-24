@@ -1,1 +1,31 @@
 “Repositorio remoto para a tarefa 3”
+
+1
+|
+ Nombre
+|
+ Github
+|
+2
+|
+:-------------
+|
+:--------------
+|
+3
+|
+ jorgerobu
+|
+ https://github.com/jorgerobu
+|
+4
+|
+ UxiaOM
+|
+ https://github.com/UxiaOM
+5
+|
+ lauralsu
+|
+ https://github.com/lauralsu
+|
